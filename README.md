@@ -1,8 +1,9 @@
 # vaacabang-tip
-Name - Victor Anthon A. Cabang
-Year Level - 3rd Year BSCpE
-Interests - Machine Learning and AI
-Email Address - mvaacabang@tip.edu.ph
+1. Name - Victor Anthon A. Cabang
+2. Year Level - 3rd Year BSCpE
+3. Interests - Machine Learning and AI
+4. Email Address - mvaacabang@tip.edu.ph
+
 My PC Specs
 
 | Part Name         | Spec          | Quantity   |
